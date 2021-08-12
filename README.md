@@ -27,7 +27,7 @@
 
 Interested in getting involved? We would like to help you!
 
-* Take a look at our [issues list](https://github.com/0x727/Template/issues) and consider sending a Pull Request to **dev branch**.
+* Take a look at our [issues list](https://github.com/usefull-elevation-of-privilege/issues) and consider sending a Pull Request to **dev branch**.
 * If you want to add a new feature, please create an issue first to describe the new feature, as well as the implementation approach. Once a proposal is accepted, create an implementation of the new features and submit it as a pull request.
 * Sorry for my poor English. Improvements for this document are welcome, even some typo fixes.
 * If you have great ideas, email 0x727Team@gmail.com.
