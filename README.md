@@ -16,11 +16,10 @@
 
 ## Windows Elevation of Privilege
 
-| CVE | Scope | Verified | Exploit | Comment |
-|-----|-------|----------|---------|---------|
-|     |       |          |         |         |
-|     |       |          |         |         |
-|     |       |          |         |         |
+| CVE                                                       | Verified | Exploit                                                   | Comment |
+| --------------------------------------------------------- | -------- | --------------------------------------------------------- | ------- |
+| [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | true     | [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | :bot:   |
+| 行3                                                      | line3    | column 3                                                  |         |
 
 
 ## Contributing
