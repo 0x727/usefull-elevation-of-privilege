@@ -18,7 +18,7 @@
 
 | CVE                                                       | Verified | Exploit                                                   | Comment |
 | --------------------------------------------------------- | -------- | --------------------------------------------------------- | ------- |
-| [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | true     | [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | :bot:   |
+| [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | true     | [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:   |
 | 行3                                                      | line3    | column 3                                                  |         |
 
 
