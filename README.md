@@ -110,9 +110,10 @@ Windows 10 Version 1809 for 32-bit Systems
 
 <details>
   <summary>相关文章</summary>
-    [【POC公开】CVE-2021-1675：Windows Print Spooler远程代码执行漏洞通告](https://www.anquanke.com/post/id/245747)
-    [Windows 打印后台处理程序远程执行代码漏洞](https://msrc.microsoft.com/update-guide/zh-cn/vulnerability/CVE-2021-1675)
-    
+
+- [POC公开 CVE-2021-1675：Windows Print Spooler远程代码执行漏洞通告](https://www.anquanke.com/post/id/245747)
+- [Windows 打印后台处理程序远程执行代码漏洞](https://msrc.microsoft.com/update-guide/zh-cn/vulnerability/CVE-2021-1675)
+
 </details>
 
 ## Contributing
